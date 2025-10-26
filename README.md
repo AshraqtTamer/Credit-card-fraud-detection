@@ -26,7 +26,7 @@ This project demonstrates a typical credit card fraud detection pipeline:
 Dataset
 -------
 The repository uses the commonly used "Credit Card Fraud Detection" dataset (anonymized features, transactions made by European cardholders). If not included in the repo, download from Kaggle:
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+https://www.kaggle.com/datasets/ashrakattamer/credit-fraud-detection
 
 Note: Make sure you follow the dataset license and Kaggle terms if you download and use the data.
 
